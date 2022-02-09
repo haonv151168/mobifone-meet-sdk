@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-keep-awake</artifactId>
+  <versioning>
+    <latest>4.0.0-jitsi-9686783</latest>
+    <release>4.0.0-jitsi-9686783</release>
+    <versions>
+      <version>4.0.0-jitsi-9680317</version>
+      <version>4.0.0-jitsi-9680445</version>
+      <version>4.0.0-jitsi-9680485</version>
+      <version>4.0.0-jitsi-9680671</version>
+      <version>4.0.0-jitsi-9680754</version>
+      <version>4.0.0-jitsi-9686627</version>
+      <version>4.0.0-jitsi-9686783</version>
+    </versions>
+    <lastUpdated>20220126024355</lastUpdated>
+  </versioning>
+</metadata>
